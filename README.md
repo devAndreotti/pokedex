@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="./pokedex.png" alt="Pokedex Banner"/>
+  <img src="./pokedex.png" alt="Pokédex Banner"/>
 </p>
 
 ## 🌟 Funcionalidades
