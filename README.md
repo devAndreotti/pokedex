@@ -1,3 +1,4 @@
+<!-- Projeto Finalizado -->
 # ✨ Desafio DEV: Pokédex
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
@@ -9,13 +10,16 @@
 </p>
 
 <p align="center">
-  <img src="./pokedex.png" alt="Pokedex"/>
+  <img src="./pokedex.png" alt="Pokedex Banner"/>
 </p>
 
-## 🎨 Funcionalidades
+## 🌟 Funcionalidades
 - Exibição de cartões de Pokémon com detalhes como tipo, status e habilidades.
 - Navegação interativa entre diferentes Pokémon através de uma lista lateral.
 - Design responsivo para uma melhor experiência em dispositivos móveis.
+
+## 🌐 Visualize o Projeto
+Você pode visualizar o projeto online através deste [link](https://devandreotti.github.io/pokedex/).
 
 ## ⚙️ Tecnologias Utilizadas
 - **HTML**: Estruturação do conteúdo da página.
@@ -29,28 +33,20 @@
    ```
 2. Abra o arquivo `index.html` no navegador.
 
-Claro! Aqui está a estrutura do projeto ajustada para o estilo desejado:
-
 ## 🛠️ Estrutura do Projeto
 ```
-├── src/                                     # Diretório principal do projeto
-│   ├── css/                                # Folhas de estilo CSS
-│   │   ├── reset.css                       # Reset de estilos padrão
-│   │   ├── global.css                      # Estilos globais
-│   │   ├── cartao.css                      # Estilos para os cartões de Pokémon
-│   │   ├── listagem.css                    # Estilos para a listagem de Pokémon
-│   │   └── responsivo.css                  # Estilos responsivos
-│   ├── Imagens/                            # Imagens dos Pokémon e outros recursos visuais
-│   │   ├── pikachu.png                     # Imagem do Pikachu
-│   │   ├── bulbasaur.png                   # Imagem do Bulbasaur
-│   │   ├── charmander.png                  # Imagem do Charmander
-│   │   ├── gyarados.png                    # Imagem do Gyarados
-│   │   ├── gengar.png                      # Imagem do Gengar
-│   │   └── dragonite.png                   # Imagem do Dragonite
-│   ├── js/                                 # Scripts JavaScript
-│   │   └── index.js                        # Script principal para funcionalidade interativa
-│   └── index.html                          # Página principal do projeto
-└── README.md                               # Documentação do projeto
+├── src/                           # Diretório principal do projeto
+│   ├── css/                       # Folhas de estilo CSS
+│   │   ├── reset.css              # Reset de estilos padrão
+│   │   ├── global.css             # Estilos globais
+│   │   ├── cartao.css             # Estilos para os cartões de Pokémon
+│   │   ├── listagem.css           # Estilos para a listagem de Pokémon
+│   │   └── responsivo.css         # Estilos responsivos
+│   ├── Imagens/                   # Imagens dos Pokémon e outros recursos visuais
+│   └── js/                        # Scripts JavaScript
+│       └── index.js               # Script principal para funcionalidade interativa
+├── index.html                     # Página principal do projeto
+└── README.md                      # Documentação do projeto
 ```
 
 ## 💪 Como Contribuir
@@ -60,5 +56,5 @@ Claro! Aqui está a estrutura do projeto ajustada para o estilo desejado:
 4. Envie as alterações: `git push origin minha-alteracao`.
 5. Abra um Pull Request para revisão.
 
-## 📄 Licença
+## 📄 Nota
 Este projeto é para fins educacionais e demonstra a criação de uma interface de usuário interativa usando HTML, CSS e JavaScript. Sinta-se livre para explorar, modificar e adaptar conforme necessário.
